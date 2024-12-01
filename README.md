@@ -1,0 +1,1 @@
+Repository of my 3D printing models, mostly created with `build123d` code CAD and Python. 
