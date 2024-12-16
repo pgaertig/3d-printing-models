@@ -1,5 +1,7 @@
-bd_warehouse @ git+https://github.com/gumyr/bd_warehouse@d78deb67f9433c1bc2b4594a302f38e9a3158f2b
-build123d @ git+https://github.com/gumyr/build123d.git@37fddc291c1cb78b03f61f28b5962c0f45961475
+bd_warehouse @ git+https://github.com/gumyr/bd_warehouse@master
+build123d @ git+https://github.com/gumyr/build123d.git@master
 ocp_vscode==2.6.1
 cadquery @ git+https://github.com/CadQuery/cadquery.git@master
 cq_gears @ git+https://github.com/meadiode/cq_gears.git@main
+
+build123d_draft @ git+https://github.com/baverman/build123d_draft@master
