@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 from build123d import *
-from ocp_vscode import *
+import ocp_vscode as ocp
+import os
 
-show_clear()
-set_defaults(reset_camera=Camera.KEEP, ortho=True, black_edges=True)
+ocp.show_clear()
+ocp.set_defaults(reset_camera=ocp.Camera.KEEP, ortho=True, black_edges=True)
 
 # %%
 
 part = Cylinder(20,20)
 
-show(part)
+ocp.show(part)
 
 # %%
 
