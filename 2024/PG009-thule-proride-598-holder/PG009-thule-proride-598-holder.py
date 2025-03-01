@@ -18,10 +18,10 @@ limit_t = 5 * MM
 support_w = wall_t + floor_w + limit_t
 fillet_r = 2.5
 
-cutout_bottom_w = 95 * MM
-cutout_top_w = 65 * MM
+cutout_bottom_w = 90 * MM
+cutout_top_w = 55 * MM
 
-screw_hole_r = 2.5 * MM
+screw_hole_r = 2.6 * MM
 
 
 
