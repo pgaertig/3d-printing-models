@@ -1,7 +1,8 @@
-bd_warehouse @ git+https://github.com/gumyr/bd_warehouse@master
-build123d @ git+https://github.com/gumyr/build123d.git@master
-ocp_vscode==2.6.1
+bd_warehouse @ git+https://github.com/gumyr/bd_warehouse@main
+build123d @ git+https://github.com/gumyr/build123d.git@dev
+ocp_vscode==3.0.0
+#ocp_vscode @ git+https://github.com/bernhard-42/vscode-ocp-cad-viewer@main
 cadquery @ git+https://github.com/CadQuery/cadquery.git@master
 cq_gears @ git+https://github.com/meadiode/cq_gears.git@main
 
-build123d_draft @ git+https://github.com/baverman/build123d_draft@master
+#build123d_draft @ git+https://github.com/baverman/build123d_draft@main
